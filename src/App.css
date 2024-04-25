@@ -1,0 +1,11 @@
+.name {
+  width: 50vw;
+  border: blue 1px solid;
+}
+
+.image {
+  width: 45vw;
+  border: aqua 2px solid;
+  background-color: bisque;
+}
+
